@@ -27,14 +27,15 @@ Navigate to the project directory and start the FastAPI server:
 ```bash
 python scrubber.py
 The server will run at http://127.0.0.1:8000.
-### 2. Install the Browser Extension
+
+2. Install the Browser Extension
        1.Open Chrome and go to chrome://extensions.
        2.Enable Developer Mode.
        3.Click Load unpacked and select your privacymesh_prototype folder.
-### 3. Usage
+3. Usage
        1.Open any supported AI (ChatGPT, Gemini, etc.).
        2.Use the SCAN & SEND panel to clean your prompt.
        3.The extension will automatically redact PII and send the secure version.
-# 🛡️ Security Disclaimer
+🛡️ Security Disclaimer
 This is a prototype developed for Ideathon 26. It is designed to demonstrate local-first privacy interception and is not intended for production-level security without further hardening of the local API endpoints.
 **Developed by the Sentinel Squad at SRMIST.**
