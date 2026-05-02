@@ -42,4 +42,6 @@ The server will run at http://127.0.0.1:8000.
 # 🛡️ Security Disclaimer
 This is a prototype developed for Ideathon 26. It is designed to demonstrate local-first privacy interception and is not intended for production-level security without further hardening of the local API endpoints.
 
-**Developed by the Sentinel Squad at SRMIST.**
+---
+**Project Lead & Sole Developer:** Nayanika Prusty  
+**Competition Team:** Sentinel Squad (SRMIST)
